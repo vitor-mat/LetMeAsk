@@ -26,8 +26,8 @@ LetMeAsk é uma aplicação web desenvoldia como uma ferramenta de facilitar as 
 
 ## Demonstração da Aplicação
 
-### Pokedex Desktop
-![Weather app sem dados Desktop](./src/assets/images-for-reademe/criar-sala.png)
+### Sessão para criar sala
+![Weather app sem dados Desktop](./src/assets/images for reademe/criar sala.png)
 
 ## Pré Requisitos Para rodar a aplicação 
 - Instalar o NodeJs e um navegador web.
