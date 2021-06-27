@@ -26,9 +26,8 @@ LetMeAsk é uma aplicação web desenvoldia como uma ferramenta de facilitar as 
 
 ## Demonstração da Aplicação
 
-### Sessão para criar sala
-  <img src="src/assets/images_for_reademe/criar_sala.png" width="350" title="hover text">
-
+Em breve
+  
 ## Pré Requisitos Para rodar a aplicação 
 - Instalar o NodeJs e um navegador web.
 
